@@ -1,4 +1,4 @@
-package hari_ke_3.Overriding;
+package hari_ke_2_lanjutan.Overriding;
 
 public class Main {
     public static void main(String[] args) {

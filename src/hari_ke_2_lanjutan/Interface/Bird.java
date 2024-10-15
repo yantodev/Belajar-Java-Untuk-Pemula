@@ -1,4 +1,4 @@
-package hari_ke_3.Interface;
+package hari_ke_2_lanjutan.Interface;
 
 public class Bird implements Flyable {
     @Override

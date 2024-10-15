@@ -1,4 +1,4 @@
-package hari_ke_3.Abstract;
+package hari_ke_2_lanjutan.Abstract;
 
 public class Main {
     public static void main(String[] args) {
